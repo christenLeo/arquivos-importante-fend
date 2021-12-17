@@ -1,0 +1,24 @@
+Atividade: Inspecionando Seus Favoritos
+Visão Geral
+Nesta atividade, vocês irão trabalhar em duplas para examinar a marcação de alguns de seus sites favoritos. Além de acostumá-lo a usar algumas ferramentas comuns de desenvolvimento (especialmente o Chrome Development Tools), vamos aprofundar sua intuição de como certos elementos são representados em uma página renderizada. Por exemplo, as tags de cabeçalho, por padrão, tendem a ter mais espaço em branco a sua volta do que tags de parágrafo, e a fonte padrão da tag inicial tende a ser diferente da fonte usada no restante do documento.
+
+Inspecionando uma Página
+O Chrome DevTools pode ser usado para inspecionar os elementos de uma página, quais regras de estilo estão ativas em um elemento (você aprenderá mais sobre Cascateamento de Planilhas de Estilo em breve), quais recursos remotos (imagens, vídeos, fontes externas, etc.) estão sendo acessados pela página, entre várias outras coisas. Hoje, você irá se familiarizar com a aba Elements.
+
+Para acessar o DevTools, você pode fazer uma dessas coisas:
+
+Clique no ícone menu (três pontos no canto superior direito), selecione Mais Ferramentas, e em seguida Ferramentas do Desenvolvedor
+Pressione Ctrl+Shift+I
+Clique com o botão direito em qualquer lugar da página e em seguida em Inspecionar
+Você provavelmente verá uma janela assim:
+
+Os elementos usados são os mesmos que você teria usado para produzir o mesmo efeito?
+Quais tags você viu sendo usadas que não se lembra de ter visto na aula principal ou em conteúdos suplementares?
+Você usaria tags diferentes para fazer a mesma coisa em certos lugares (por exemplo, usar uma tag de artigo em vez de uma tag div)?
+Debata os pontos acima com seu colega.
+
+Subindo o Nível (Programação em Dupla)
+Escolha outro de seus sites favoritos e tente, inicialmente sem usar o inspetor, reproduzir a marcação da página Sinta-se à vontade para copiar e colar o texto e as imagens usadas na página, mas resista o desejo de simplesmente inspecioná-la ou acessar View Page Source. Quando você já tiver certeza de que marcou as coisas o máximo que pôde sem estilizar os elementos (ou seja, sem usar CSS), inspecione a página e compare o que há de fato nela com as conclusões que você e seu colega tiraram.
+
+Na Vanguarda (Programação em Dupla, Opcional)
+Se você já teve alguma experiência com CSS, tente adicionar estilos à página para chegar o mais próximo o possível da original. Além de uma prática extra em CSS (e aproximações ao ter que criar um protótipo funcional baseado em um mock-up), isso também deve dar a você e seu colega uma ideia sólida de quais aspectos do CSS você está familiarizado e quais você precisa aprimorar quando entrarmos nesse assunto no curso.
